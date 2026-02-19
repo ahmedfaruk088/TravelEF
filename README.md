@@ -12,4 +12,4 @@ Bu proje, C# programlama dili ve Entity Framework altyapısı kullanılarak geli
 2. Visual Studio'da projenizi açın ve `App.config` dosyasındaki bağlantı adresini (Connection String) kendi SQL sunucunuza göre düzenleyin.
 
 ## 📸 Uygulama Ekran Görüntüsü
-![Uygulama Ekranı]()
+![Uygulama Ekranı](TravelEF.png)
